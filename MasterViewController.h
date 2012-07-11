@@ -5,7 +5,7 @@
 //  Created by Lorenzo Villarroel on 11/07/12.
 //  Copyright (c) 2012 __MyCompanyName__. All rights reserved.
 //
-
+//adioss
 #import <UIKit/UIKit.h>
 
 @class DetailViewController;
